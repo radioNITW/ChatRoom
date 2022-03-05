@@ -1,0 +1,27 @@
+{
+  "name": "radio_nitw",
+  "description": "student mass communication platform",
+  "main": "",
+  "authors": [
+    "[object Object]",
+    "[object Object]"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "NodeJS",
+    "AngularJS",
+    "Web",
+    "Sockets",
+    "File",
+    "Sharing"
+  ],
+  "homepage": "https://github.com/radioNITW/ChatRoom",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
